@@ -178,8 +178,8 @@ nav a:hover {
 
 .serviceItem {
   background-color: var(--background-color);
-  border: 2px solid var(--accent-color-1);
-  border-bottom: 15px solid var(--accent-color-1);
+  border: 2px solid var(--accent-color-3);
+  border-bottom: 15px solid var(--accent-color-3);
   border-radius: 10px;
   padding: 20px;
   margin: 20px;
