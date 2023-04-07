@@ -5,8 +5,8 @@
   --primary-color-2: #ffd54f; /* amber */
   --accent-color-2: #795548; /* brown */
 
-  --primary-color-3: #ffdeb4; /* pastel peach */
-  --accent-color-3: #ffd54f; /* amber */
+  --primary-color-3: #c5e1a5;
+  --accent-color-3: #5c6bc0; 
 
   --primary-color-4: #00c853; /* lime green */
   --accent-color-4: #212121; /* black */
@@ -16,6 +16,7 @@
 
   --background-color: #ffffff; /* white */
 }
+
 ::selection {
   background-color: var(--accent-color-1);
   color: black;
