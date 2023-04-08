@@ -116,7 +116,7 @@ nav a:hover {
 #banner {
   background-color: var(--primary-color);
   height: 320px;
-  margin-bottom: 20px;
+  margin: 20px auto;
   display: flex;
   justify-content: space-evenly;
 }
