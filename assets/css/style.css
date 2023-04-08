@@ -59,19 +59,23 @@ header ul {
   justify-content: space-evenly;
 }
 
-header ul li {
+header ul li{
   font-size: 30px;
   font-style: oblique;
+  text-decoration: none;
   width: 200px;
-  background-color: var(--background-color);
+  background-color: var(--accent-color-2);
   color: var(--accent-color-3);
   padding: 15px;
   margin: 2px;
   border-radius: 50%;
 }
-
+header ul li a{
+  text-decoration: none;
+  color: var(--primary-color);
+}
 header ul li:hover {
-  background-color: tan;
+  background-color: var(--accent-color-3);
   color: var(--accent-color-3);
   border: 2px solid var(--primary-color);
   scale: 1.1;
